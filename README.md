@@ -1,4 +1,4 @@
-# Hi, I'm jchummel2 👋
+# Hi, I'm Joel 👋
 
 [![My stats](https://github-stats-extended.vercel.app/api?username=jchummel2&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
